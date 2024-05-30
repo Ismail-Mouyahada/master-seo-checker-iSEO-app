@@ -1,6 +1,8 @@
 # iSEO Checker 
 ###### Made by : MOUYAHADA ISMAIL
 
+ ![SEO Checker](https://github.com/Ismail-Mouyahada/master-seo-checker-iSEO-app/blob/main/imgs/screencapture-localhost-8501-2024-05-30-02_59_06.png?raw=true)
+
 This project is an SEO checker based on Lighthouse, integrated into a Streamlit web application. The application allows users to enter a website URL, perform an SEO and performance analysis, and generate a PDF report of the results. The application also includes features for URL validation, handling empty inputs, and rate limiting to prevent abuse.
 
 ### Project Structure
